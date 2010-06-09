@@ -42,7 +42,7 @@ After the build completes you will have a full JNLP distribution built under:
 Assuming you have a bash shell you should also be able to run from the
 command-line (without bothering with a JNLP install) by doing:
     cd modules/main
-    ./run-jqtl.bash
+    ./run-bham.bash
 
 If you're running on Windows you should be able to adapt run-jqtl.bash to a
 bat script with few modifications.
