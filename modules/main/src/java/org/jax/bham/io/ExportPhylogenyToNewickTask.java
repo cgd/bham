@@ -24,7 +24,7 @@ import java.util.logging.Logger;
 
 import org.jax.bham.BhamApplication;
 import org.jax.geneticutil.data.BasePairInterval;
-import org.jax.haplotype.analysis.experimentdesign.PhylogenyDataSource;
+import org.jax.haplotype.analysis.PhylogenyDataSource;
 import org.jax.haplotype.phylogeny.data.PhylogenyInterval;
 import org.jax.haplotype.phylogeny.data.PhylogenyTreeNode;
 import org.jax.util.concurrent.AbstractLongRunningTask;

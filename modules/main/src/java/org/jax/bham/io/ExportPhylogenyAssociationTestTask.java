@@ -23,7 +23,7 @@ import java.util.logging.Logger;
 
 import org.jax.bham.BhamApplication;
 import org.jax.geneticutil.data.BasePairInterval;
-import org.jax.haplotype.analysis.experimentdesign.PhylogenyAssociationTest;
+import org.jax.haplotype.analysis.PhylogenyAssociationTest;
 import org.jax.haplotype.phylogeny.data.PhylogenyInterval;
 import org.jax.haplotype.phylogeny.data.PhylogenyTestResult;
 import org.jax.haplotype.phylogeny.data.PhylogenyTreeNode;

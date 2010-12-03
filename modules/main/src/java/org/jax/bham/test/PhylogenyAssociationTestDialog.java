@@ -25,9 +25,9 @@ import java.util.Set;
 import javax.swing.JDialog;
 
 import org.jax.bham.project.BhamProject;
-import org.jax.haplotype.analysis.experimentdesign.PhenotypeDataSource;
-import org.jax.haplotype.analysis.experimentdesign.PhylogenyAssociationTest;
-import org.jax.haplotype.analysis.experimentdesign.PhylogenyDataSource;
+import org.jax.haplotype.analysis.PhenotypeDataSource;
+import org.jax.haplotype.analysis.PhylogenyAssociationTest;
+import org.jax.haplotype.analysis.PhylogenyDataSource;
 import org.jax.util.datastructure.SequenceUtilities;
 import org.jax.util.gui.MessageDialogUtilities;
 

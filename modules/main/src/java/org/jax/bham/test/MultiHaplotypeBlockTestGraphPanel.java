@@ -50,8 +50,8 @@ import org.jax.geneticutil.data.RealValuedBasePairInterval;
 import org.jax.geneticutil.gui.GoToMouseIntervalInCGDGBrowseAction;
 import org.jax.geneticutil.gui.GoToMouseIntervalInCGDSnpDatabaseAction;
 import org.jax.geneticutil.gui.GoToMouseIntervalInUCSCBrowserAction;
-import org.jax.haplotype.analysis.experimentdesign.MultiHaplotypeBlockTest;
-import org.jax.haplotype.analysis.experimentdesign.MultiHaplotypeBlockTestResult;
+import org.jax.haplotype.analysis.MultiHaplotypeBlockTest;
+import org.jax.haplotype.analysis.MultiHaplotypeBlockTestResult;
 import org.jax.haplotype.analysis.visualization.ChromosomeHistogramValues;
 import org.jax.haplotype.analysis.visualization.GenomicGraphFactory;
 import org.jax.haplotype.analysis.visualization.HighlightedSnpInterval;
@@ -63,7 +63,7 @@ import org.jfree.chart.JFreeChart;
 
 /**
  * A panel for rendering a
- * {@link org.jax.haplotype.analysis.experimentdesign.MultiHaplotypeBlockTest}
+ * {@link org.jax.haplotype.analysis.MultiHaplotypeBlockTest}
  * results
  * @author <A HREF="mailto:keith.sheppard@jax.org">Keith Sheppard</A>
  */

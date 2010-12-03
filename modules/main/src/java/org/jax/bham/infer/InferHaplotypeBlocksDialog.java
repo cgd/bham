@@ -27,7 +27,7 @@ import javax.swing.JDialog;
 import javax.swing.SpinnerNumberModel;
 
 import org.jax.bham.project.BhamProject;
-import org.jax.haplotype.analysis.experimentdesign.GenotypeInferenceHaplotypeDataSource;
+import org.jax.haplotype.analysis.GenotypeInferenceHaplotypeDataSource;
 import org.jax.haplotype.data.GenomeDataSource;
 import org.jax.util.gui.MessageDialogUtilities;
 

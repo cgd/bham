@@ -24,7 +24,7 @@ import java.util.Map;
 import javax.swing.AbstractAction;
 
 import org.jax.bham.BhamApplication;
-import org.jax.haplotype.analysis.experimentdesign.PhenotypeDataSource;
+import org.jax.haplotype.analysis.PhenotypeDataSource;
 import org.jax.util.gui.desktoporganization.Desktop;
 
 /**

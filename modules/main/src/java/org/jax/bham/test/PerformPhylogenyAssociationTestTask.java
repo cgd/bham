@@ -23,7 +23,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 
 import org.jax.bham.BhamApplication;
-import org.jax.haplotype.analysis.experimentdesign.PhylogenyAssociationTest;
+import org.jax.haplotype.analysis.PhylogenyAssociationTest;
 import org.jax.haplotype.phylogeny.data.PhylogenyTestResult;
 import org.jax.util.concurrent.AbstractLongRunningTask;
 import org.jax.util.gui.MessageDialogUtilities;

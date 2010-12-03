@@ -26,7 +26,7 @@ import java.util.logging.Logger;
 import javax.swing.JDialog;
 
 import org.jax.bham.project.BhamProject;
-import org.jax.haplotype.analysis.experimentdesign.GenotypeInferencePhylogenyDataSource;
+import org.jax.haplotype.analysis.GenotypeInferencePhylogenyDataSource;
 import org.jax.haplotype.data.GenomeDataSource;
 import org.jax.util.gui.MessageDialogUtilities;
 

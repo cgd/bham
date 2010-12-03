@@ -25,8 +25,8 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 
 import org.jax.bham.BhamApplication;
-import org.jax.haplotype.analysis.experimentdesign.MultiGroupHaplotypeAssociationTest;
-import org.jax.haplotype.analysis.experimentdesign.MultiHaplotypeBlockTestResult;
+import org.jax.haplotype.analysis.MultiGroupHaplotypeAssociationTest;
+import org.jax.haplotype.analysis.MultiHaplotypeBlockTestResult;
 import org.jax.util.concurrent.AbstractLongRunningTask;
 import org.jax.util.datastructure.SequenceUtilities;
 import org.jax.util.gui.MessageDialogUtilities;

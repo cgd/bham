@@ -25,7 +25,7 @@ import javax.swing.JPopupMenu;
 import javax.swing.tree.DefaultMutableTreeNode;
 
 import org.jax.bham.test.PlotSpecificPhylogenyAssociationTestAction;
-import org.jax.haplotype.analysis.experimentdesign.PhylogenyAssociationTest;
+import org.jax.haplotype.analysis.PhylogenyAssociationTest;
 
 /**
  * A project tree node that holds the result of a phylogeny association test

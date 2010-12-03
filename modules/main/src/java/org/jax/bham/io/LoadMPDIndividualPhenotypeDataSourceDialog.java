@@ -41,9 +41,9 @@ import javax.swing.event.ListSelectionEvent;
 import javax.swing.event.ListSelectionListener;
 
 import org.jax.bham.project.BhamProject;
-import org.jax.haplotype.analysis.experimentdesign.MPDIndividualPhenotypeDataSource;
-import org.jax.haplotype.analysis.experimentdesign.MPDIndividualStrainPhenotypeParser;
-import org.jax.haplotype.analysis.experimentdesign.SexFilter;
+import org.jax.haplotype.analysis.MPDIndividualPhenotypeDataSource;
+import org.jax.haplotype.analysis.MPDIndividualStrainPhenotypeParser;
+import org.jax.haplotype.analysis.SexFilter;
 import org.jax.util.gui.MessageDialogUtilities;
 import org.jax.util.gui.SimplifiedDocumentListener;
 

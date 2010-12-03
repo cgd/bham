@@ -25,7 +25,7 @@ import java.util.Map;
 import javax.swing.AbstractAction;
 
 import org.jax.bham.BhamApplication;
-import org.jax.haplotype.analysis.experimentdesign.PhylogenyAssociationTest;
+import org.jax.haplotype.analysis.PhylogenyAssociationTest;
 import org.jax.haplotype.analysis.visualization.PhylogenyTreeImageFactory;
 import org.jax.haplotype.analysis.visualization.PhylogenyTreeImagePanel;
 import org.jax.haplotype.analysis.visualization.SimplePhylogenyTreeImageFactory;

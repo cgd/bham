@@ -48,7 +48,7 @@ import org.jax.geneticutil.data.RealValuedBasePairInterval;
 import org.jax.geneticutil.gui.GoToMouseIntervalInCGDGBrowseAction;
 import org.jax.geneticutil.gui.GoToMouseIntervalInCGDSnpDatabaseAction;
 import org.jax.geneticutil.gui.GoToMouseIntervalInUCSCBrowserAction;
-import org.jax.haplotype.analysis.experimentdesign.PhylogenyAssociationTest;
+import org.jax.haplotype.analysis.PhylogenyAssociationTest;
 import org.jax.haplotype.analysis.visualization.ChromosomeHistogramValues;
 import org.jax.haplotype.analysis.visualization.GenomicGraphFactory;
 import org.jax.haplotype.analysis.visualization.HighlightedSnpInterval;

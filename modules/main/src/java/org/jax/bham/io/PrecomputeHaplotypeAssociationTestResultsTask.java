@@ -21,7 +21,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 
 import org.jax.bham.BhamApplication;
-import org.jax.haplotype.analysis.experimentdesign.CachingHaplotypeAssociationTest;
+import org.jax.haplotype.analysis.CachingHaplotypeAssociationTest;
 import org.jax.util.concurrent.AbstractLongRunningTask;
 import org.jax.util.gui.MessageDialogUtilities;
 

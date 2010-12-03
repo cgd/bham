@@ -19,12 +19,12 @@ package org.jax.bham.project;
 
 import javax.swing.tree.DefaultMutableTreeNode;
 
-import org.jax.haplotype.analysis.experimentdesign.HaplotypeAssociationTest;
-import org.jax.haplotype.analysis.experimentdesign.HaplotypeDataSource;
-import org.jax.haplotype.analysis.experimentdesign.MultiGroupHaplotypeAssociationTest;
-import org.jax.haplotype.analysis.experimentdesign.PhenotypeDataSource;
-import org.jax.haplotype.analysis.experimentdesign.PhylogenyAssociationTest;
-import org.jax.haplotype.analysis.experimentdesign.PhylogenyDataSource;
+import org.jax.haplotype.analysis.HaplotypeAssociationTest;
+import org.jax.haplotype.analysis.HaplotypeDataSource;
+import org.jax.haplotype.analysis.MultiGroupHaplotypeAssociationTest;
+import org.jax.haplotype.analysis.PhenotypeDataSource;
+import org.jax.haplotype.analysis.PhylogenyAssociationTest;
+import org.jax.haplotype.analysis.PhylogenyDataSource;
 import org.jax.haplotype.data.GenomeDataSource;
 import org.jax.haplotype.data.MultiGroupHaplotypeDataSource;
 import org.jax.util.gui.ListTreeNode;

@@ -26,7 +26,7 @@ import javax.swing.AbstractAction;
 import javax.swing.Action;
 
 import org.jax.bham.BhamApplication;
-import org.jax.haplotype.analysis.experimentdesign.MultiGroupHaplotypeAssociationTest;
+import org.jax.haplotype.analysis.MultiGroupHaplotypeAssociationTest;
 import org.jax.util.gui.MessageDialogUtilities;
 import org.jax.util.gui.desktoporganization.Desktop;
 

@@ -19,7 +19,7 @@ package org.jax.bham.project;
 
 import javax.swing.tree.DefaultMutableTreeNode;
 
-import org.jax.haplotype.analysis.experimentdesign.PhylogenyDataSource;
+import org.jax.haplotype.analysis.PhylogenyDataSource;
 
 /**
  * @author <A HREF="mailto:keith.sheppard@jax.org">Keith Sheppard</A>

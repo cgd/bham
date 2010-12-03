@@ -25,7 +25,7 @@ import javax.swing.JPopupMenu;
 import javax.swing.tree.DefaultMutableTreeNode;
 
 import org.jax.bham.test.PlotSpecificHaplotypeAssociationTestAction;
-import org.jax.haplotype.analysis.experimentdesign.HaplotypeAssociationTest;
+import org.jax.haplotype.analysis.HaplotypeAssociationTest;
 
 /**
  * Tree node representing a haplotype association test

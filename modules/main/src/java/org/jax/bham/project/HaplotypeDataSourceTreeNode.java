@@ -19,7 +19,7 @@ package org.jax.bham.project;
 
 import javax.swing.tree.DefaultMutableTreeNode;
 
-import org.jax.haplotype.analysis.experimentdesign.HaplotypeDataSource;
+import org.jax.haplotype.analysis.HaplotypeDataSource;
 
 /**
  * Tree node representation of a haplotype data source

@@ -27,7 +27,7 @@ import java.util.logging.Logger;
 import org.jax.bham.BhamApplication;
 import org.jax.geneticutil.data.BasePairInterval;
 import org.jax.geneticutil.data.PartitionedIntervalSet;
-import org.jax.haplotype.analysis.experimentdesign.HaplotypeDataSource;
+import org.jax.haplotype.analysis.HaplotypeDataSource;
 import org.jax.util.concurrent.AbstractLongRunningTask;
 import org.jax.util.datastructure.SequenceUtilities;
 import org.jax.util.datastructure.SetUtilities;

@@ -26,8 +26,8 @@ import java.util.Set;
 import javax.swing.JDialog;
 
 import org.jax.bham.project.BhamProject;
-import org.jax.haplotype.analysis.experimentdesign.MultiGroupHaplotypeAssociationTest;
-import org.jax.haplotype.analysis.experimentdesign.PhenotypeDataSource;
+import org.jax.haplotype.analysis.MultiGroupHaplotypeAssociationTest;
+import org.jax.haplotype.analysis.PhenotypeDataSource;
 import org.jax.haplotype.data.MultiGroupHaplotypeDataSource;
 import org.jax.util.datastructure.SequenceUtilities;
 import org.jax.util.gui.MessageDialogUtilities;

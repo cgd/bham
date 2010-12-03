@@ -31,7 +31,7 @@ import javax.swing.JCheckBox;
 import javax.swing.JPanel;
 import javax.swing.JToolBar;
 
-import org.jax.haplotype.analysis.experimentdesign.PhenotypeDataSource;
+import org.jax.haplotype.analysis.PhenotypeDataSource;
 import org.jax.util.datastructure.SequenceUtilities;
 import org.jfree.chart.ChartFactory;
 import org.jfree.chart.ChartPanel;
