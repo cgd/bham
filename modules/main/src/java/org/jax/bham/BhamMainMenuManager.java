@@ -39,6 +39,7 @@ import org.jax.bham.io.LoadMPDIndividualPhenotypeDataSourceAction;
 import org.jax.bham.project.LoadBhamProjectAction;
 import org.jax.bham.project.SaveBhamProjectAction;
 import org.jax.bham.project.SaveBhamProjectAsAction;
+import org.jax.bham.test.EMMATestAction;
 import org.jax.bham.test.HaplotypeAssociationTestAction;
 import org.jax.bham.test.MultiGroupHaplotypeAssociationTestAction;
 import org.jax.bham.test.PhylogenyAssociationTestAction;
@@ -117,6 +118,7 @@ public class BhamMainMenuManager
         this.menuBar.add(inferenceMenu);
         
         final JMenu testMenu = new JMenu("Test");
+        testMenu.add(new EMMATestAction());
         testMenu.add(new HaplotypeAssociationTestAction());
         testMenu.add(new MultiGroupHaplotypeAssociationTestAction());
         testMenu.add(new PhylogenyAssociationTestAction());
